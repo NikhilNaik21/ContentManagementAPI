@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Onstro\\ArticleManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\services\\interfaces\\icontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:services\\interfaces\\icontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\services\\interfaces\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:services\\interfaces\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\services\\implementations\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:services\\implementations\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\services\\implementations\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:services\\implementations\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\models\\contents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:models\\contents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\models\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:models\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\dto\\contentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:dto\\contentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\dto\\articlepaginatedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:dto\\articlepaginatedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\dto\\articlepaginationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:dto\\articlepaginationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\dto\\articlelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:dto\\articlelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\dto\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:dto\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\data\\articlemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:data\\articlemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\controllers\\contentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:controllers\\contentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|d:\\onstro\\articlemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEEC142F-8EA6-4FB1-88AA-0F5456AC7130}|ArticleManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "Enums\\Status.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Enums\\Status.cs",
+              "RelativeToolTip": "Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T19:00:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ArticleManagementDbContext.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Data\\ArticleManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ArticleManagementDbContext.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Data\\ArticleManagementDbContext.cs",
+              "RelativeToolTip": "Data\\ArticleManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T18:59:11.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Enums\\Language.cs",
+              "RelativeDocumentMoniker": "Enums\\Language.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Enums\\Language.cs",
+              "RelativeToolTip": "Enums\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T18:50:23.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArticlePaginatedResponseDTO.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\DTO\\ArticlePaginatedResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ArticlePaginatedResponseDTO.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\DTO\\ArticlePaginatedResponseDTO.cs",
+              "RelativeToolTip": "DTO\\ArticlePaginatedResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:44:56.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArticlePaginationRequestDTO.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\DTO\\ArticlePaginationRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ArticlePaginationRequestDTO.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\DTO\\ArticlePaginationRequestDTO.cs",
+              "RelativeToolTip": "DTO\\ArticlePaginationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:37:08.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArticleListDTO.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\DTO\\ArticleListDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ArticleListDTO.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\DTO\\ArticleListDTO.cs",
+              "RelativeToolTip": "DTO\\ArticleListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:30:41.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Services\\Implementations\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ArticleService.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Services\\Implementations\\ArticleService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ArticleService.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAADwv6QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:27:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArticleDTO.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\DTO\\ArticleDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ArticleDTO.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\DTO\\ArticleDTO.cs",
+              "RelativeToolTip": "DTO\\ArticleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:07:50.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contents.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Models\\Contents.cs",
+              "RelativeDocumentMoniker": "Models\\Contents.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Models\\Contents.cs",
+              "RelativeToolTip": "Models\\Contents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T11:03:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContentDTO.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\DTO\\ContentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ContentDTO.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\DTO\\ContentDTO.cs",
+              "RelativeToolTip": "DTO\\ContentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:08:05.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:08:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Articles.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Models\\Articles.cs",
+              "RelativeDocumentMoniker": "Models\\Articles.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Models\\Articles.cs",
+              "RelativeToolTip": "Models\\Articles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T11:03:20.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Services\\Interfaces\\IArticleService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IArticleService.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Services\\Interfaces\\IArticleService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:12:57.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContentService.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Services\\Implementations\\ContentService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ContentService.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Services\\Implementations\\ContentService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ContentService.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAswKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:28:01.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T11:02:59.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticlesController.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:19:05.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContentsController.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Controllers\\ContentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContentsController.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Controllers\\ContentsController.cs",
+              "RelativeToolTip": "Controllers\\ContentsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:18:45.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContentService.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Services\\Interfaces\\IContentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IContentService.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Services\\Interfaces\\IContentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IContentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:16:31.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T07:31:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Onstro\\ArticleManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Onstro\\ArticleManagementApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-28T10:31:08.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
